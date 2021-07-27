@@ -1,7 +1,7 @@
 # Mosaic_Decoration_-JAVA-
 This Problems included IEEEXTreme v14.0 in 2020 October.
 
-### Check the two questions below👇👇. Answers are included in the git repo & you can check it. 👆👆
+### Check the two questions below👇👇. Answers are included in the above git repo 👆👆 & you can check it. 
 #### `**I solved those problems using JAVA.**`
 
 ## **_` Mosaic_Decoration I - Problem 1`_**
